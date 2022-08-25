@@ -9,13 +9,13 @@
         <!-- Bootstrap-->
          <!-- favicon -->
          <link rel="shortcut icon" href="images/logo.ico">
-        <link href="lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link href="https://www.smkn1kuwus.sch.id/pengumuman-kelulusan/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
         <!--Common Plugins CSS -->
-        <link href="css/plugins/plugins.css" rel="stylesheet">
+        <link href="https://www.smkn1kuwus.sch.id/pengumuman-kelulusan/css/plugins/plugins.css" rel="stylesheet">
         <!--fonts-->
-        <link href="lib/line-icons/line-icons.css" rel="stylesheet">
-        <link href="lib/font-awesome/css/fontawesome-all.min.css" rel="stylesheet">
-        <link href="css/style.css" rel="stylesheet">
+        <link href="https://www.smkn1kuwus.sch.id/pengumuman-kelulusan/lib/line-icons/line-icons.css" rel="stylesheet">
+        <link href="https://www.smkn1kuwus.sch.id/pengumuman-kelulusan/lib/font-awesome/css/fontawesome-all.min.css" rel="stylesheet">
+        <link href="https://www.smkn1kuwus.sch.id/pengumuman-kelulusan/css/style.css" rel="stylesheet">
     </head>
     <body class="layout-horizontal">
         <div class="page-wrapper" id="page-wrapper">
@@ -140,8 +140,8 @@
             </main><!-- page content end-->
         </div><!-- app's main wrapper end -->
         <!-- Common plugins -->
-        <script type="text/javascript" src="js/plugins/plugins.js"></script> 
-        <script type="text/javascript" src="js/appUi-custom.js"></script> 
+        <script type="text/javascript" src="https://www.smkn1kuwus.sch.id/pengumuman-kelulusan/js/plugins/plugins.js"></script> 
+        <script type="text/javascript" src="https://www.smkn1kuwus.sch.id/pengumuman-kelulusan/js/appUi-custom.js"></script> 
         <script>
             $(function () {
                 $(".ck").on('click', function(){
